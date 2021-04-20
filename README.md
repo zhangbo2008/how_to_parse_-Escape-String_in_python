@@ -6,3 +6,7 @@
     # ]
     #        '''
     # ttt=   json.load(aaa)
+    
+    
+    you should use \\ for  escape string to make it work. that is too distruscated. but works!!!!!!!!!!!!!!
+     
